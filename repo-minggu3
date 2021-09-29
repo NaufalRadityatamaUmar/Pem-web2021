@@ -1,0 +1,24 @@
+<html>
+
+<head> 
+	<title>Vidio</title>
+<body>
+<div class="Tentang aku">
+<h1>Tentang Aku</h1>
+	<p>	Nama saya Naufal Radityatama Umar. Saya berasal dari Kota Semarang.
+        Sekarang saya berumu 20 tahun dan sedang menjalankan kuliah semester 3 dengan jurusan Teknik Informatika di Universitas Dian Nuswantoro.
+        Tetapi saat ini saya sedang melakukan pembelajaran secara online dikarena kasus covid yang belum selesai.
+        Untuk mengisi waktu luang, saya memiliki banyak hobi diantaranya Bermain Game, Mengoleksi Ikan Predator, ikan Cupang dan Travelling.
+        Saya melakukan kegitan tersebut supaya lebih produktif.
+	</p>
+	<h2>Tampilan Vidio</h2>
+	<video width="450" controls>
+		<source src="$data" type="Biodata/mp4"> 
+	</video>
+	
+	<iframe width="642" height="361" src="https://youtu.be/InRmt1vCDNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</head>
+
+</html>
